@@ -1,7 +1,0 @@
-The first column in the data set contains subjects identified by a number 1-30 representing one of the thirty subjects used for data collection.
-
-The second column contains the activity that the subject was performing (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
-
-Since there are 30 subjects each performing one of the 6 activities, there are 180 total observations.
-
-Column 3 - 81 contains means of feature vectors that had means and standard deviation calculations from the raw data. These feature vectors have data for body and gravity accelerations and gyroscope data in all three directions - X, Y and Z. 't' in the begining of the names indicates time-based vector while 'f' indicates frequency based vectors.
